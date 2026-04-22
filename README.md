@@ -6,7 +6,7 @@
 
 A complete chess game in a single HTML file. Play against a friend locally or challenge the AI opponent.
 
-![Chess Board](chess-game-initial.png)
+
 
 ## Features
 
