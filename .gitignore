@@ -1,0 +1,19 @@
+# Playwright test artifacts
+.playwright-mcp/
+
+# Screenshots (keep chess-game-initial.png for README)
+*.png
+!.chess-game-initial.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs
+*.log
